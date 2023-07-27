@@ -1,0 +1,27 @@
+.pretty-button {
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    height: 50px;
+    width: 300px;
+    font-style: normal;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    
+}
+
+h1 {
+    text-align: center;
+    width: 300px;
+    height: auto;
+    border-style: solid;
+    padding: 50px;
+    margin: auto;
+    background-color: royalblue;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
